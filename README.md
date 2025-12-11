@@ -50,3 +50,11 @@ git clone https://github.com/muhammadnouman911/Brain-MRI-Segmentation.git
 jupyter notebook Notebook.ipynb
 ```
 
+## Output
+
+The notebook will generate:
+
+* Training and validation metrics
+* Predicted segmentation masks
+* Comparisons between predictions and ground truth
+
