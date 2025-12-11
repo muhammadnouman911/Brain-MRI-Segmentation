@@ -24,3 +24,29 @@ The goal of this project is to segment brain MRI images, identifying regions suc
 * Evaluating performance
 * Visualizing segmentation results
 
+## Requirements
+
+Install the necessary dependencies before running the notebook:
+
+```bash
+pip install numpy matplotlib tensorflow keras scikit-learn opencv-python
+```
+
+(If using PyTorch, install the corresponding packages instead.)
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/muhammadnouman911/Brain-MRI-Segmentation.git
+```
+
+2. Place your dataset inside the `DATA/` folder (if not already included).
+
+3. Open and run the notebook:
+
+```bash
+jupyter notebook Notebook.ipynb
+```
+
