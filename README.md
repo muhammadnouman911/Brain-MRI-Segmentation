@@ -58,3 +58,8 @@ The notebook will generate:
 * Predicted segmentation masks
 * Comparisons between predictions and ground truth
 
+## License
+
+This project is released under the MIT License.
+
+---
